@@ -1,4 +1,4 @@
-module go-ping-sweep
+module github.com/tango3304/go-ping-sweep
 
 go 1.24.2
 
